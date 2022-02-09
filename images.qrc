@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>graphics/models/Близорукий0.png</file>
+        <file>graphics/models/Близорукий10.png</file>
+        <file>graphics/models/Близорукий20.png</file>
+        <file>graphics/models/Близорукий30.png</file>
+        <file>graphics/models/Близорукий40.png</file>
+        <file>graphics/models/Близорукий50.png</file>
+        <file>graphics/models/Близорукий60.png</file>
+        <file>graphics/models/Близорукий70.png</file>
+        <file>graphics/models/Близорукий80.png</file>
+        <file>graphics/models/Близорукий90.png</file>
+        <file>graphics/models/Дальнозоркий0.png</file>
+        <file>graphics/models/Дальнозоркий10.png</file>
+        <file>graphics/models/Дальнозоркий20.png</file>
+        <file>graphics/models/Дальнозоркий30.png</file>
+        <file>graphics/models/Дальнозоркий40.png</file>
+        <file>graphics/models/Дальнозоркий50.png</file>
+        <file>graphics/models/Дальнозоркий60.png</file>
+        <file>graphics/models/Дальнозоркий70.png</file>
+        <file>graphics/models/Дальнозоркий80.png</file>
+        <file>graphics/models/Дальнозоркий90.png</file>
+        <file>graphics/models/Нормальный0.png</file>
+        <file>graphics/models/Нормальный10.png</file>
+        <file>graphics/models/Нормальный20.png</file>
+        <file>graphics/models/Нормальный30.png</file>
+        <file>graphics/models/Нормальный40.png</file>
+        <file>graphics/models/Нормальный50.png</file>
+        <file>graphics/models/Нормальный60.png</file>
+        <file>graphics/models/Нормальный70.png</file>
+        <file>graphics/models/Нормальный80.png</file>
+        <file>graphics/models/Нормальный90.png</file>
+        <file>graphics/icon.ico</file>
+  </qresource>
+</RCC>
